@@ -10,13 +10,90 @@ Using load displacement constraint (LDC) ([IN](./resolveuid/da1c5a96b597d1ff4b50
 
 Using a spring attached at the node ([IDB]({{< baseurl >}}/resources/hw5_spring))
 
-| ASSIGNMENTS | SOLUTIONS |
-| --- | --- |
-| Homework 1 ([PDF]({{< baseurl >}}/resources/mit2_092f09_hw1)) | ([PDF]({{< baseurl >}}/resources/mit2_092f09_sol1)) |
-| Homework 2 ([PDF]({{< baseurl >}}/resources/mit2_092f09_hw2)) | ([PDF]({{< baseurl >}}/resources/mit2_092f09_sol2)) |
-| Homework 3 ([PDF]({{< baseurl >}}/resources/mit2_092f09_hw3)) | ([PDF]({{< baseurl >}}/resources/mit2_092f09_sol3)) |
-| Homework 4 ([PDF]({{< baseurl >}}/resources/mit2_092f09_hw4)) | ([PDF]({{< baseurl >}}/resources/mit2_092f09_hw4)) |
-| Homework 5 ([PDF]({{< baseurl >}}/resources/mit2_092f09_hw5)) | ([PDF]({{< baseurl >}}/resources/mit2_092f09_sol5)) |
-| Homework 6 ([PDF]({{< baseurl >}}/resources/mit2_092f09_hw6)) | ([PDF]({{< baseurl >}}/resources/mit2_092f09_hw6)) |
-| Homework 7 ([PDF]({{< baseurl >}}/resources/mit2_092f09_hw7)) | ([PDF]({{< baseurl >}}/resources/mit2_092f09_sol7)) |
-| Homework 8 ([PDF]({{< baseurl >}}/resources/mit2_092f09_hw8)) | ([PDF]({{< baseurl >}}/resources/mit2_092f09_sol8))
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ASSIGNMENTS
+{{< thclose >}}
+{{< thopen >}}
+SOLUTIONS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homework 1 ([PDF]({{< baseurl >}}/resources/mit2_092f09_hw1))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit2_092f09_sol1))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homework 2 ([PDF]({{< baseurl >}}/resources/mit2_092f09_hw2))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit2_092f09_sol2))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homework 3 ([PDF]({{< baseurl >}}/resources/mit2_092f09_hw3))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit2_092f09_sol3))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homework 4 ([PDF]({{< baseurl >}}/resources/mit2_092f09_hw4))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit2_092f09_hw4))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homework 5 ([PDF]({{< baseurl >}}/resources/mit2_092f09_hw5))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit2_092f09_sol5))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homework 6 ([PDF]({{< baseurl >}}/resources/mit2_092f09_hw6))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit2_092f09_hw6))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homework 7 ([PDF]({{< baseurl >}}/resources/mit2_092f09_hw7))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit2_092f09_sol7))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homework 8 ([PDF]({{< baseurl >}}/resources/mit2_092f09_hw8))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit2_092f09_sol8))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

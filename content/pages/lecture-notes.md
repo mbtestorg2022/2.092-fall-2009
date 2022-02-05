@@ -6,30 +6,321 @@ uid: 8f2f0d95-72fd-5b91-25d0-743fd2de18d7
 
 The lecture notes on this page were written by the teaching assistant, Seounghyun Ham, typed by Chang-Yoon Park, and proofread by Seounghyun Ham and Daniel J. Payen.
 
-| SES # | TOPICS | NOTES |
-| --- | --- | --- |
-| 1 | Introduction: why to study FEA | ([PDF - 7.3MB]({{< baseurl >}}/resources/mit2_092f09_lec01)) |
-| 2 | The finite element analysis process | ([PDF]({{< baseurl >}}/resources/mit2_092f09_lec02)) |
-| 3 | Analysis of solids/structures and fluids | ([PDF]({{< baseurl >}}/resources/mit2_092f09_lec03)) |
-| 4 | The principle of virtual work | ([PDF]({{< baseurl >}}/resources/mit2_092f09_lec04)) |
-| 5 | The finite element formulation | ([PDF]({{< baseurl >}}/resources/mit2_092f09_lec05)) |
-| 6 | Finite element solution process | ([PDF]({{< baseurl >}}/resources/mit2_092f09_lec06)) |
-| 7 | Finite element solution process, cont'd | ([PDF]({{< baseurl >}}/resources/mit2_092f09_lec07)) |
-| 8 | Demonstration on using ADINA, part 1 |  none |
-| 9 | Demonstration on using ADINA, part 2 |  none |
-| 10 | Nonlinear finite element analysis of solids and structures | ([PDF]({{< baseurl >}}/resources/mit2_092f09_lec10)) |
-| 11 | Heat transfer analysis | ([PDF]({{< baseurl >}}/resources/mit2_092f09_lec11)) |
-| 12 | Finite element analysis of heat transfer and incompressible fluid flow | ([PDF]({{< baseurl >}}/resources/mit2_092f09_lec12)) |
-| 13 | Physical explanation of Gauss elimination | ([PDF]({{< baseurl >}}/resources/mit2_092f09_lec13)) |
-| 14 | Exam 1 |  none |
-| 15 | Solution of dynamic equilibrium equations | ([PDF]({{< baseurl >}}/resources/mit2_092f09_lec15)) |
-| 16 | Solution of dynamic equilibrium equations, cont'd | ([PDF]({{< baseurl >}}/resources/mit2_092f09_lec16)) |
-| 17 | Demonstration on finite element methods in ADINA; focus on student projects |  none |
-| 18 | Modeling for dynamic analysis and solution | ([PDF]({{< baseurl >}}/resources/mit2_092f09_lec18)) |
-| 19 | Modeling for dynamic analysis and solution, cont'd | ([PDF]({{< baseurl >}}/resources/mit2_092f09_lec19)) |
-| 20 | Wave propagation response | ([PDF]({{< baseurl >}}/resources/mit2_092f09_lec20)) |
-| 21 | Solution of the generalized eigenvalue problem | ([PDF]({{< baseurl >}}/resources/mit2_092f09_lec21)) |
-| 22 | Exam 2 |  none |
-| 23 | Solution of **Kφ =** λ**Mφ** | ([PDF]({{< baseurl >}}/resources/mit2_092f09_lec23)) |
-| 24 | Wrap up, review |  none |
-| 25 | Wrap up, review, cont'd |  none
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+NOTES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction: why to study FEA
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF - 7.3MB]({{< baseurl >}}/resources/mit2_092f09_lec01))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+The finite element analysis process
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit2_092f09_lec02))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Analysis of solids/structures and fluids
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit2_092f09_lec03))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+The principle of virtual work
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit2_092f09_lec04))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+The finite element formulation
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit2_092f09_lec05))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Finite element solution process
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit2_092f09_lec06))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Finite element solution process, cont'd
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit2_092f09_lec07))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Demonstration on using ADINA, part 1
+{{< tdclose >}}
+{{< tdopen >}}
+ none
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Demonstration on using ADINA, part 2
+{{< tdclose >}}
+{{< tdopen >}}
+ none
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Nonlinear finite element analysis of solids and structures
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit2_092f09_lec10))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Heat transfer analysis
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit2_092f09_lec11))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Finite element analysis of heat transfer and incompressible fluid flow
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit2_092f09_lec12))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Physical explanation of Gauss elimination
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit2_092f09_lec13))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Exam 1
+{{< tdclose >}}
+{{< tdopen >}}
+ none
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Solution of dynamic equilibrium equations
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit2_092f09_lec15))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Solution of dynamic equilibrium equations, cont'd
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit2_092f09_lec16))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Demonstration on finite element methods in ADINA; focus on student projects
+{{< tdclose >}}
+{{< tdopen >}}
+ none
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Modeling for dynamic analysis and solution
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit2_092f09_lec18))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Modeling for dynamic analysis and solution, cont'd
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit2_092f09_lec19))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Wave propagation response
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit2_092f09_lec20))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Solution of the generalized eigenvalue problem
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit2_092f09_lec21))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Exam 2
+{{< tdclose >}}
+{{< tdopen >}}
+ none
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Solution of **Kφ =** λ**Mφ**
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit2_092f09_lec23))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Wrap up, review
+{{< tdclose >}}
+{{< tdopen >}}
+ none
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Wrap up, review, cont'd
+{{< tdclose >}}
+{{< tdopen >}}
+ none
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
