@@ -34,4 +34,4 @@ The natural frequencies of a cube were investigated using ADINA, and the results
 Video Lectures
 --------------
 
-[_Finite Element Procedures for Solids and Structures_](/resources/res-2-002-finite-element-procedures-for-solids-and-structures-spring-2010) presents two video courses by Prof. Bathe, recommended for further study on the topics of linear and nonlinear finite element analysis.
+[_Finite Element Procedures for Solids and Structures_](/courses/res-2-002-finite-element-procedures-for-solids-and-structures-spring-2010) presents two video courses by Prof. Bathe, recommended for further study on the topics of linear and nonlinear finite element analysis.

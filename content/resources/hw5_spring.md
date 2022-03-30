@@ -3,6 +3,7 @@ content_type: resource
 description: This resource is a supporting file for the course.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/2-092-finite-element-analysis-of-solids-and-fluids-i-fall-2009/9356f355212e8a20a745cb6835c3d138_HW5_spring.idb
 file_type: application/octet-stream
+parent_uid: ab138e96-f294-f0c1-d312-b820228458e7
 resourcetype: Other
 title: HW5_spring.idb
 uid: 9356f355-212e-8a20-a745-cb6835c3d138
